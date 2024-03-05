@@ -14,6 +14,9 @@ O modelo conceitual é a base do projeto e inclui:
 
 O diagrama do modelo conceitual serve como guia durante a implementação, ajudando a compreender o sistema e identificar tarefas a serem realizadas.
 
+![Diagrama UML do Modelo Conceitual](modelo-conceitual.png)
+![Diagrama UML do Modelo Conceitual](instancia-do-modelo.png)
+
 ## Objetivos do Estudo de Caso
 
 ### Geral:
